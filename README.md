@@ -1,3 +1,15 @@
+S2TI Challenge PHP
+
+- Symfony 2.8
+- EasyAdminBundle
+- VichUploader
+
+This is just a simple upload files using EasyAdminBundle plus VichUploader. I can't handle with REST API things right now. 
+
+Cheers.
+
+
+
 Symfony Standard Edition
 ========================
 
